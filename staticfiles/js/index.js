@@ -59,7 +59,7 @@ search.addEventListener('click', (event) => {
                 wave01.classList.add('active');
                 wave02.classList.add('active');
                 wave03.classList.add('active');
-                const temperature = data['main'].temp + '°C';
+                const temperature = data['main'].temp + '°F';
                 const wind_speed = data['wind'].speed + 'Km/h';
                 const humidity = data['main'].humidity + '%';
                 const country = data['sys'].country;
