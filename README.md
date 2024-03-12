@@ -1,4 +1,7 @@
-# City Weather App
-City Weather App built using Django Framework and Open Weather API
+Weather App, using Django
 
-Link to Railway app: https://city-weather-conditions-app.herokuapp.com
+Dependencies
+- Docker
+- Open Weather API
+
+
