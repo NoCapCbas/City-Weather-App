@@ -1,5 +1,5 @@
 # Replace localhost with your application's domain
 localhost {
-  reverse_proxy /* http://weather_app_backend:8000
+  reverse_proxy /* http://weather_app_django_backend:8000
 
 }
